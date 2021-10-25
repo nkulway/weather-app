@@ -1,24 +1,7 @@
-# vue-weather
+Fist app I'va made with a front end framework.
 
-## Project setup
-```
-npm install
-```
+I chose to make this project in vue after a friend of mine introduced me to the framework and it was really smooth and easy to understand.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+The app takes live weather information from a free API and displays a temperature on the UI.
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+If it is hot, the background turns a deep orange/red color and if it's cold the background is a picture of snowcap mountains.
