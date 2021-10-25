@@ -1,4 +1,4 @@
-Fist app I'va made with a front end framework.
+This is the first app I'va made with a front end framework.
 
 I chose to make this project in vue after a friend of mine introduced me to the framework and it was really smooth and easy to understand.
 
